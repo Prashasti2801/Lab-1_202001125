@@ -67,4 +67,4 @@ Question 2: Hearing Aid Application
     Scope:   
         -> To create a real time responding software that alerts the user to sorrounding noises  
         -> Based on feedback, the number of categories of sound can be expanded and updated in all the apps downloaded   
-        -> It needs to have low latency to repond to the sorrounding noises  
+        -> It needs to have low latency to repond to the surrounding noises  
