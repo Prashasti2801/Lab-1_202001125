@@ -3,8 +3,8 @@ IT314 Software Engineering Lab 1
    
 Question 1: Library Information System  
    
-  Functional Requirements: Define features and functions of the project focusing on the user requirements and describing how the project works    
-  Non - Functional Requirements: Description of the project and describe the project properties and quality  
+    Functional Requirements: Define features and functions of the project focusing on the user requirements and describing how the project works    
+    Non - Functional Requirements: Description of the project and describe the project properties and quality  
      
   Users/Actors of the software:   
     -> Casual readers or non members of the library  
