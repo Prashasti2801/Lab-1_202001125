@@ -13,7 +13,7 @@ Question 1: Library Information System
     -> Librarian or the Administrative user
     
   Functional Requirements of software:
-    -> Main page of the software has browse books option where anyone can search for a book and in return retrieves information regarding its position in the shelf and          its availability
+    -> Main page of the software has browse books option where anyone can search for a book and in return retrieves information regarding its position in the shelf and          its availability  
     -> Main page in the top right corner has a login button which redirects to the login page of the software
     -> Login page asks to choose between the role through which to login, mainly, User, Staff and Administration and then asked to enter the username and password
     -> Members page:
